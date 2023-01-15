@@ -1,0 +1,10 @@
+{
+  "Steps": {"Step_1": "Log In",
+            "Step_2": "Open chat dialog",
+            "Step_3": "Click on setting button [Add User]",
+            "Step_4": "Add any User to the conversation",
+            "Step_5": "Try to rename this group conversation"
+           },
+  "Actual_resuilt": "Rename button is disabled"
+}
+
