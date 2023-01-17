@@ -1,4 +1,4 @@
-Number
-Check list
-Check status
-Verification result
+1.Number
+2.Check list
+3.Check status
+4.Verification result
